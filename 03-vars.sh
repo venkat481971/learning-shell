@@ -12,3 +12,6 @@ echo today date is $DATE
 ADD=$((2+3+4))
 echo Addition of 2+3+4 is $ADD
 
+# variable from CLI
+echo value of x = $x
+
